@@ -1,0 +1,8 @@
+Input {
+    width: 50%;
+    padding: 5px 10px;
+    margin: 5px 0;
+    font-size: large;
+    font-style: italic;
+    border: 1px solid teal;
+}
